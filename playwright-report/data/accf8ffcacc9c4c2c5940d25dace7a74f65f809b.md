@@ -1,0 +1,192 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e3]:
+    - generic [ref=e6]:
+      - heading "Expert AI Engineering Consulting" [level=1] [ref=e7]:
+        - text: Expert
+        - generic [ref=e8]: AI Engineering
+        - text: Consulting
+      - paragraph [ref=e9]:
+        - text: Transform your business with cutting-edge AI solutions. Our team brings
+        - strong [ref=e10]: years of proven expertise
+        - text: in building production-ready AI applications that deliver real business value.
+      - generic [ref=e11]:
+        - button "Get Started Today" [active] [ref=e12] [cursor=pointer]
+        - link "Learn More" [ref=e13] [cursor=pointer]:
+          - /url: "#services"
+      - generic [ref=e15]:
+        - heading "Free AI Consultation" [level=3] [ref=e16]
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]: Name (optional)
+            - textbox "Name (optional)" [ref=e20]
+          - generic [ref=e21]:
+            - generic [ref=e22]: Email Address *
+            - textbox "Email Address *" [ref=e23]
+          - button "Get Free Consultation" [ref=e24] [cursor=pointer]
+          - paragraph [ref=e25]: No spam, just valuable AI insights and consultation opportunities.
+      - generic [ref=e26]:
+        - paragraph [ref=e27]: Trusted by innovative companies
+        - generic [ref=e28]:
+          - generic [ref=e29]: Startups
+          - generic [ref=e30]: Enterprise
+          - generic [ref=e31]: Scale-ups
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - heading "Why Choose Our AI Engineering Expertise?" [level=2] [ref=e35]
+        - paragraph [ref=e36]: We don't just build AI applications - we craft intelligent solutions that transform your business operations and unlock new opportunities.
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]: ⚡
+          - heading "Years of Expertise" [level=3] [ref=e40]
+          - paragraph [ref=e41]: Deep experience building production AI applications across industries, from startups to enterprise.
+        - generic [ref=e42]:
+          - generic [ref=e43]: 🎯
+          - heading "Proven Results" [level=3] [ref=e44]
+          - paragraph [ref=e45]: Track record of delivering AI solutions that drive real business outcomes and ROI.
+        - generic [ref=e46]:
+          - generic [ref=e47]: 🔧
+          - heading "End-to-End Solutions" [level=3] [ref=e48]
+          - paragraph [ref=e49]: From strategy to deployment - we handle the complete AI development lifecycle.
+        - generic [ref=e50]:
+          - generic [ref=e51]: ⚡
+          - heading "Fast Time-to-Market" [level=3] [ref=e52]
+          - paragraph [ref=e53]: Accelerate your AI initiatives with our battle-tested frameworks and methodologies.
+      - generic [ref=e55]:
+        - heading "Battle-Tested AI Experience" [level=3] [ref=e56]
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]: 5+
+            - generic [ref=e60]: Years Building AI
+          - generic [ref=e61]:
+            - generic [ref=e62]: 100+
+            - generic [ref=e63]: AI Projects Delivered
+          - generic [ref=e64]:
+            - generic [ref=e65]: 24/7
+            - generic [ref=e66]: Support & Monitoring
+      - generic [ref=e67]:
+        - heading "Technologies We Master" [level=3] [ref=e68]
+        - generic [ref=e69]:
+          - generic [ref=e70]: TensorFlow
+          - generic [ref=e71]: PyTorch
+          - generic [ref=e72]: OpenAI API
+          - generic [ref=e73]: Hugging Face
+          - generic [ref=e74]: LangChain
+          - generic [ref=e75]: Vector Databases
+          - generic [ref=e76]: MLOps
+          - generic [ref=e77]: Cloud AI Services
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - heading "Comprehensive AI Engineering Services" [level=2] [ref=e81]
+        - paragraph [ref=e82]: From initial strategy to ongoing maintenance, we provide end-to-end AI solutions that drive measurable business results.
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - heading "AI Strategy & Consulting" [level=3] [ref=e85]
+          - paragraph [ref=e86]: Define your AI roadmap with expert guidance on technology selection, implementation strategy, and ROI optimization.
+          - list [ref=e87]:
+            - listitem [ref=e88]:
+              - generic [ref=e89]: ✓
+              - text: AI readiness assessment
+            - listitem [ref=e90]:
+              - generic [ref=e91]: ✓
+              - text: Technology roadmapping
+            - listitem [ref=e92]:
+              - generic [ref=e93]: ✓
+              - text: Business case development
+            - listitem [ref=e94]:
+              - generic [ref=e95]: ✓
+              - text: Risk assessment & mitigation
+        - generic [ref=e96]:
+          - heading "Custom AI Development" [level=3] [ref=e97]
+          - paragraph [ref=e98]: Build production-ready AI applications tailored to your specific business needs and requirements.
+          - list [ref=e99]:
+            - listitem [ref=e100]:
+              - generic [ref=e101]: ✓
+              - text: Machine learning models
+            - listitem [ref=e102]:
+              - generic [ref=e103]: ✓
+              - text: Natural language processing
+            - listitem [ref=e104]:
+              - generic [ref=e105]: ✓
+              - text: Computer vision solutions
+            - listitem [ref=e106]:
+              - generic [ref=e107]: ✓
+              - text: Recommendation systems
+        - generic [ref=e108]:
+          - heading "AI Integration & Deployment" [level=3] [ref=e109]
+          - paragraph [ref=e110]: Seamlessly integrate AI capabilities into your existing systems with robust, scalable architecture.
+          - list [ref=e111]:
+            - listitem [ref=e112]:
+              - generic [ref=e113]: ✓
+              - text: API development & integration
+            - listitem [ref=e114]:
+              - generic [ref=e115]: ✓
+              - text: Cloud deployment & scaling
+            - listitem [ref=e116]:
+              - generic [ref=e117]: ✓
+              - text: Performance optimization
+            - listitem [ref=e118]:
+              - generic [ref=e119]: ✓
+              - text: Security & compliance
+        - generic [ref=e120]:
+          - heading "MLOps & Maintenance" [level=3] [ref=e121]
+          - paragraph [ref=e122]: Ensure your AI systems perform reliably with comprehensive monitoring, updates, and optimization.
+          - list [ref=e123]:
+            - listitem [ref=e124]:
+              - generic [ref=e125]: ✓
+              - text: Model monitoring & retraining
+            - listitem [ref=e126]:
+              - generic [ref=e127]: ✓
+              - text: Performance analytics
+            - listitem [ref=e128]:
+              - generic [ref=e129]: ✓
+              - text: Automated testing & validation
+            - listitem [ref=e130]:
+              - generic [ref=e131]: ✓
+              - text: 24/7 support & maintenance
+      - generic [ref=e132]:
+        - heading "Our Proven AI Development Process" [level=3] [ref=e133]
+        - generic [ref=e134]:
+          - generic [ref=e135]:
+            - generic [ref=e136]: "1"
+            - heading "Discovery" [level=4] [ref=e137]
+            - paragraph [ref=e138]: Understand your business needs and AI opportunities
+          - generic [ref=e139]:
+            - generic [ref=e140]: "2"
+            - heading "Design" [level=4] [ref=e141]
+            - paragraph [ref=e142]: Architect the optimal AI solution for your requirements
+          - generic [ref=e143]:
+            - generic [ref=e144]: "3"
+            - heading "Develop" [level=4] [ref=e145]
+            - paragraph [ref=e146]: Build and train AI models using best practices
+          - generic [ref=e147]:
+            - generic [ref=e148]: "4"
+            - heading "Deploy" [level=4] [ref=e149]
+            - paragraph [ref=e150]: Launch and monitor your AI solution in production
+      - generic [ref=e151]:
+        - heading "Ready to Transform Your Business with AI?" [level=3] [ref=e152]
+        - paragraph [ref=e153]: Let's discuss how our AI expertise can solve your specific challenges.
+        - button "Start Your AI Project" [ref=e154] [cursor=pointer]
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - generic [ref=e158]:
+          - heading "AI Engineering Consulting" [level=3] [ref=e159]
+          - paragraph [ref=e160]: Expert AI solutions with years of proven experience in building production applications.
+        - generic [ref=e161]:
+          - heading "Services" [level=4] [ref=e162]
+          - list [ref=e163]:
+            - listitem [ref=e164]: AI Strategy & Consulting
+            - listitem [ref=e165]: Custom AI Development
+            - listitem [ref=e166]: AI Integration & Deployment
+            - listitem [ref=e167]: MLOps & Maintenance
+        - generic [ref=e168]:
+          - heading "Contact" [level=4] [ref=e169]
+          - paragraph [ref=e170]:
+            - text: Ready to start your AI project?
+            - link "Get in touch for a consultation" [ref=e171] [cursor=pointer]:
+              - /url: "#"
+      - paragraph [ref=e173]: © 2024 AI Engineering Consulting. All rights reserved.
+  - alert [ref=e174]
+```
